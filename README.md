@@ -79,3 +79,8 @@ Begin exploring generative models, including autoencoders, GLO, variational auto
 ### Module 12. Generative Adversarial Networks
 
 Continue studying generative models with a focus on GANs. Learn their strengths and weaknesses, explore the StyleGAN architecture, and understand how to apply GANs to various tasks.
+
+---
+references
+
+https://dls.samcs.ru/part1
