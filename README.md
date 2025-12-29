@@ -1,8 +1,4 @@
 # Deep_Learning_Schoool_MFTI_Part1_2025
-This repository contains materials for Part 1: Intro to Machine Learning and Deep Learning (Computer Vision)
-
-
-# Intro to Machine Learning and Deep Learning: Computer Vision
 
 This repository contains materials for **Part 1: Intro to Machine Learning and Deep Learning (Computer Vision)**.
 
@@ -81,6 +77,8 @@ Begin exploring generative models, including autoencoders, GLO, variational auto
 Continue studying generative models with a focus on GANs. Learn their strengths and weaknesses, explore the StyleGAN architecture, and understand how to apply GANs to various tasks.
 
 ---
-references
+references:
+
+To enroll in Part 1: Intro to Machine Learning and Deep Learning (Computer Vision), please refer to the official course page: 
 
 https://dls.samcs.ru/part1
